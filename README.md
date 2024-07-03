@@ -1,3 +1,5 @@
+![148017595212319171](https://github.com/JuanSevver/juansevver/assets/167648905/17dd5931-4991-4650-8cc0-8d59f5322730)
+
 # Someone who will - Data Analyst 
 
 I'm a passionate and aspiring data analyst. I'm eager to learn and contribute to meaningful projects that utilize data to drive insights and make a real impact.
