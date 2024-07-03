@@ -1,16 +1,35 @@
-## Hi there 👋
+# Someone who will - Data Analyst 
 
-<!--
-**JuanSevver/juansevver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and aspiring data analyst. I'm eager to learn and contribute to meaningful projects that utilize data to drive insights and make a real impact.
 
-Here are some ideas to get you started:
+## Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Telegram:* [QQQsqwgqq]
+
+## Skills & Technologies
+
+- *Programming Languages:* Python
+- *Databases & SQL:* SQL
+- *Data Visualization:* [Matplotlib, Seaborn, Tableau]
+- *Tools & Libraries:* [Pandas, Numpy, Scipy, Sklearn]
+
+## Courses & Education
+
+- *[Machine learning and Data analysis]* - [pieriantraining.com] - [2024]
+- *[Python]* - [pygen] - [2024]
+- *[Statistics]* - [Institute of Bioinformatics] - [2024]
+
+
+## Projects
+
+- *[Project Name]* - [Brief Description]
+- *[Project Name]* - [Brief Description]
+
+## Portfolio
+
+You can find some of my work on my portfolio: [Link to your portfolio]
+
+## Looking for Opportunities
+
+I'm actively seeking opportunities to contribute my skills and learn from experienced professionals in the field of data analytics.  If you have any relevant projects or opportunities, please feel free to reach out.
+
