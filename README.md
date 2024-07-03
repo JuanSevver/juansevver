@@ -4,8 +4,7 @@ I'm a passionate and aspiring data analyst. I'm eager to learn and contribute to
 
 ## Contact Me
 
-- *Telegram:* [QQQsqwgqq]
-
+- *Telegram:* QQQsqwgqq [https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white](https://t.me/[QQQsqwgqq])
 ## Skills & Technologies
 
 - *Programming Languages:* Python
@@ -18,7 +17,7 @@ I'm a passionate and aspiring data analyst. I'm eager to learn and contribute to
 - *[Machine learning and Data analysis]* - [pieriantraining.com] - [2024]
 - *[Python]* - [pygen] - [2024]
 - *[Statistics]* - [Institute of Bioinformatics] - [2024]
-
+- *[SQL]* - [carpov.courses] - [2024]
 
 ## Projects
 
